@@ -10,14 +10,15 @@ button will direct you to Ice Cube's Facebook page.
 Clicking on the Twitter button will direct you to Ice Cube's Twitter
 page. Finally, clicking on Meme will direct you to a meme page.<br> 
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/feliz1.png)<br>
+![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/feliz2.png)<br>
 
 PaquitoFelizCumple2014.apk<br>
 This app will forward you to different links based on what you click.
 I made this for my nephew's birthday gift.<br>
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/good.png)<br>
 
 Mobile_Kiss.apk<br>
 This is my very first app!  I made this for my wife.<br> 
+<!-- ![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/kiss.png)<br> -->
