@@ -21,4 +21,5 @@ I made this for my nephew's birthday gift.<br>
 
 Mobile_Kiss.apk<br>
 This is my very first app!  I made this for my wife.<br> 
-<!-- ![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/kiss.png)<br> -->
+![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/kiss1.png)<br>
+![alt tag](https://github.com/lymanwong/Android-Projects/blob/master/Images/kiss2.png)<br>
